@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "organization": "Andrew713 (Curated)",
+  "date": "March 2026",
+  "sources": [
+    "goldbergyoni/nodebestpractices (104k stars)",
+    "Sairyss/backend-best-practices",
+    "Vercel Serverless Documentation",
+    "OWASP API Security Top 10 (2023)"
+  ],
+  "abstract": "Node.js/Serverless 백엔드 최적화 가이드. 30개 규칙 × 6개 카테고리. Serverless 패턴, 입력 검증, 외부 API 통합, 에러 처리, 캐싱, 테스트/관찰성 포함. Vercel React Best Practices와 동일한 포맷으로 AI 에이전트가 백엔드 코드 작성 시 자동 참조.",
+  "references": [
+    "https://github.com/goldbergyoni/nodebestpractices",
+    "https://github.com/Sairyss/backend-best-practices",
+    "https://vercel.com/docs/functions",
+    "https://owasp.org/API-Security/editions/2023/en/0x11-t10/"
+  ]
+}
